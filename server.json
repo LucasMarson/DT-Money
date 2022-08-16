@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-08-11T19:24:56.153Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2022-08-11T18:24:56.153Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite",
+      "type": "outcome",
+      "category": "educacao",
+      "price": 1650,
+      "createdAt": "2022-08-11T18:24:56.153Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "Vendas",
+      "type": "income",
+      "createdAt": "2022-08-15T22:34:29.856Z",
+      "id": 4
+    },
+    {
+      "description": "Agua",
+      "price": 2,
+      "category": "Alimentacao",
+      "type": "outcome",
+      "createdAt": "2022-08-15T22:55:51.654Z",
+      "id": 5
+    }
+  ]
+}
